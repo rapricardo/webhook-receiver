@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/ricardotocha/${{ github.event.repository.name }}:latest
+          tags: ghcr.io/rapricardo/${{ github.event.repository.name }}:latest
